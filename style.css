@@ -1,0 +1,47 @@
+body,
+html {
+    background: url(backgroundimage.jpg) no-repeat center center fixed;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(#CB5EEE, #4BE1EC);
+    color: white;
+    height: 72px;
+}
+
+.content {
+    font-family: 'Potta One', 'cursive', 'Roboto Mono';
+}
+a {
+    margin: 6px;
+    padding: 7px;
+}    
+.container {
+    /* background-color: red; */
+    color: antiquewhite;
+    /* color: #dbc889; */
+    width: 50vw;
+    padding: 32px 0;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+b {
+    font-family: 'Raleway', sans-serif;
+}
+
+.web {
+	color: aquamarine;
+}
+
+.github {
+	color: purple;
